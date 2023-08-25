@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Oi, eu sou Gabriel Amrim</h1>
 <h3 align="center">Estudante Desenvolvimento Full-Stack Trybe</h3>
 
