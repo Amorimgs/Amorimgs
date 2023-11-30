@@ -6,7 +6,7 @@ class SobreMim extends Desenvolvedor {
   idade     = '23 anos';
   local     = 'Teófilo Otoni - MG';
   trabalho  = 'Em busca do primeiro emprego na área de desenvolvimento.';
-  formacao  = 'Análise e Desenvolvimento de Sistemas & Sistemas de Informação - DOCTUM (1º periodo)
+  formacao  = 'Sistemas de Informação - DOCTUM (1º periodo)
                Desenvolvimento Full-Stack Trybe';
   stacks    = ['GIT, HTML, CSS, JS, TS, React, Redux, Jest, RTL'...]
 }
