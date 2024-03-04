@@ -5,7 +5,7 @@ class SobreMim extends Desenvolvedor {
   nome      = 'Gabriel Souza Amorim';
   idade     = '23 anos';
   local     = 'Teófilo Otoni - MG';
-  trabalho  = 'Em busca do primeiro emprego na área de desenvolvimento.';
+  trabalho  = 'Em transição de carreira.';
   formacao  = 'Sistemas de Informação - DOCTUM (1º periodo)
                Desenvolvimento Full-Stack Trybe';
   stacks    = ['GIT', 'HTML', 'CSS', 'JS', 'TS', 'React', 'Redux', 'Jest', 'RTL', 'Docker', 'SQL', ...];
