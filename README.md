@@ -8,8 +8,15 @@ class SobreMim extends Desenvolvedor {
   trabalho  = 'Em transição de carreira.';
   formacao  = 'Sistemas de Informação - DOCTUM (1º periodo)
                Desenvolvimento Full-Stack Trybe';
-  stacks    = ['GIT', 'HTML', 'CSS', 'JS', 'TS', 'React', 'Redux', 'Jest', 'RTL', 'Docker', 'SQL', ...];
-}
+  stacks    = {
+  "Front-end": ["HTML", "CSS", "DOM", "JavaScript", "TypeScript", "React", "React Router", "Redux", "Context API & Hooks", "TailwindCSS", "Bootstrap", "Next.js"],
+  "Back-end": ["Node.js", "Express", "MySQL", "Sequelize", "JWT"],
+  "Controle de Versão": ["GiT", "GitHub"],
+  "Testes": ["Testes Unitários", "Jest", "Testes Automatizados", "Mocha", "Chai", "Sinon", "RTL (React Testing Library)"],
+  "Contêineres e Orquestração": ["Docker"],
+  "Metodologias Ágeis": ["Metodologias Ágeis", "Kanban", "Scrum"]
+};
+};
 ```
 
 ## &nbsp; Stacks
