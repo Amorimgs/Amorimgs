@@ -8,14 +8,14 @@ class SobreMim extends Desenvolvedor {
   formacao  = 'Sistemas de Informação - DOCTUM (2º periodo)
                Desenvolvimento Full-Stack Trybe';
   stacks    = {
-                Linguagens: [JavaScript | TypeScript | Python | JAVA],
-                Frontend: [HTML | CSS | DOM | React | React Router | Redux | Context API & Hooks | TailwindCSS | Bootstrap],
-                Backend: [Node.js | Express | MySQL | Sequelize | JWT | GraphQL],
-                Controle de Versão: [GiT | GitHub],
-                Testes: [Testes Unitários | Jest | Testes Automatizados | Mocha | Chai | Sinon | RTL (React Testing Library) | PyTest],
-                Contêineres e Orquestração: [Docker],
-                Gestão de Erros e Monitoramento: [Sentry],
-                Metodologias Ágeis: [Metodologias Ágeis | Kanban| Scrum],
+                "Linguagens": [JavaScript | TypeScript | Python | JAVA],
+                "Front-End": [HTML | CSS | DOM | React | React Router | Redux | Context API & Hooks | TailwindCSS | Bootstrap],
+                "Back-End": [Node.js | Express | MySQL | Sequelize | JWT | GraphQL],
+                "Controle de Versão": [GiT | GitHub],
+                "Testes": [Testes Unitários | Jest | Testes Automatizados | Mocha | Chai | Sinon | RTL (React Testing Library) | PyTest],
+                "Contêineres e Orquestração": [Docker],
+                "Gestão de Erros e Monitoramento": [Sentry],
+                "Metodologias Ágeis": [Metodologias Ágeis | Kanban| Scrum],
               };
 };
 ```
