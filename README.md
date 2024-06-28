@@ -5,20 +5,17 @@ class SobreMim extends Desenvolvedor {
   nome      = 'Gabriel Souza Amorim';
   idade     = '23 anos';
   local     = 'Teófilo Otoni - MG';
-  trabalho  = 'Em transição de carreira.';
   formacao  = 'Sistemas de Informação - DOCTUM (2º periodo)
                Desenvolvimento Full-Stack Trybe';
   stacks    = {
-                "Front-end": ["HTML", "CSS", "DOM", "JavaScript", "TypeScript", "React",
-                              "React Router", "Redux", "Context API & Hooks", "TailwindCSS",
-                              "Bootstrap", "Next.js"],
-                "Back-end": ["Node.js", "Express", "MySQL", "Sequelize", "JWT", "GraphQL"],
-                "Controle de Versão": ["GiT", "GitHub"],
-                "Testes": ["Testes Unitários", "Jest", "Testes Automatizados", "Mocha", "Chai",
-                           "Sinon", "RTL (React Testing Library)"],
-                "Contêineres e Orquestração": ["Docker"],
-                "Gestão de Erros e Monitoramento": ["Sentry"],
-                "Metodologias Ágeis": ["Metodologias Ágeis", "Kanban", "Scrum"]
+                Linguagens: [JavaScript | TypeScript | Python | JAVA] 
+                Front-end: [HTML | CSS | DOM | React | React Router | Redux | Context API & Hooks | TailwindCSS | Bootstrap]
+                Back-end: [Node.js | Express | MySQL | Sequelize | JWT | GraphQL]
+                Controle de Versão: [GiT | GitHub]
+                Testes: [Testes Unitários | Jest | Testes Automatizados | Mocha | Chai | Sinon | RTL (React Testing Library) | PyTest]
+                Contêineres e Orquestração: [Docker]
+                Gestão de Erros e Monitoramento: [Sentry]
+                Metodologias Ágeis: [Metodologias Ágeis | Kanban| Scrum]
               };
 };
 ```
@@ -42,7 +39,7 @@ class SobreMim extends Desenvolvedor {
 
 <p align="left">
   <a href="mailto:ricksamann@gmail.com"  alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:rafaeladenadai@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:ricksamann@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/amorimgs" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/gabriel-souza-amorim-09111b14b/" /></a>
