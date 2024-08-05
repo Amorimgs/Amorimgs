@@ -7,7 +7,8 @@ class SobreMim extends Desenvolvedor {
   local     = 'Teófilo Otoni - MG';
   formacao  = 'Sistemas de Informação - DOCTUM (2º periodo)
                Desenvolvimento Full-Stack Trybe';
-  obs       = 'Após mais de 1 ano de estudos full-stack com JavaScript/TypeScript como linguagem principal e diversos projetos realizados,                                      atualmente estou aprofundando no estudos de JAVA backend e segurança cibernética.'
+  obs       = 'Após mais de 1 ano de estudos full-stack com JavaScript/TypeScript como linguagem principal e diversos projetos realizados,
+               atualmente estou aprofundando no estudos de JAVA backend e segurança cibernética.'
   stacks    = {
                 "Linguagens": [JavaScript | TypeScript | Python | JAVA],
                 "Front-End": [HTML | CSS | DOM | React | React Router | Redux | Context API & Hooks | TailwindCSS | Bootstrap],
